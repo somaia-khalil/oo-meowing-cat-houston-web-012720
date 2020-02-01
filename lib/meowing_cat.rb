@@ -6,3 +6,6 @@ class Cat
     puts "meow!"
   end 
 end 
+
+pa = Cat.new 
+pa.name = "Ds"
